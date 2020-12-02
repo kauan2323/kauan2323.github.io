@@ -19,7 +19,7 @@
 		}
 
 		#menu{
-			max-width: 300px;
+			max-width: 1300px;
 			background-color: green;
 		}
 
@@ -100,7 +100,7 @@ function validarSenha(){
 <li><a href="contato.html">Contato</a></li>
 </ul>
 </nav>
-</div><br><br><br><br><br>
+</div><br><br><br><br>
 
 
 <div>
