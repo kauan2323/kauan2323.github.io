@@ -19,7 +19,7 @@
 		}
 
 		#menu{
-			max-width: 1300px;
+			max-width: 600px;
 			background-color: green;
 		}
 
